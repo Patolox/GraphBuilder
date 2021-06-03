@@ -1,5 +1,5 @@
 # GraphBuilder
-An App that makes graph related operations
+An tool that makes graph related operations
 
 Commands:
     
